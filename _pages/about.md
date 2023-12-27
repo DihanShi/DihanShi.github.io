@@ -12,4 +12,4 @@ I am a doctoral student in the [Department of Political Science](https://polisci
 
 Prior to joining Washington University, I was a Research Data Scientist at [Johns Hopkins University](https://www.jhu.edu/) (2023). I hold a B.S. degree *summa cum laude* in Mathematics (with Honors) and Political Economy (with Honors) from [Georgetown University](https://www.georgetown.edu/) (2022). 
 
-You can access my CV [here](/files/Dihan_Shi - CV - Dec 2023.pdf). My email is [dihan@wustl.edu](mailto:dihan@wustl.edu).
+You can access my CV [here](/files/Dihan_Shi_CV_Dec_2023.pdf). My email is [dihan@wustl.edu](mailto:dihan@wustl.edu).
