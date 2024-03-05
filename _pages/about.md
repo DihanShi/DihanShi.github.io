@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral student in the [Department of Political Science](https://polisci.wustl.edu/) at Washington University in St. Louis. Access my CV [here](/files/Dihan_Shi_CV.pdf).
+I am a PhD student in the [Department of Political Science](https://polisci.wustl.edu/) at Washington University in St. Louis.
 
 I use survey experiments and computer vision to study comparative political economy, public opinion, and political communication. I also study causal inference problems in survey experimentation and remote sensing. My research on individual corruption perceptions and public support for free trade is conditionally accepted for publication in [*International Studies Quarterly*](https://academic.oup.com/isq).
 
