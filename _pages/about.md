@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in the [Department of Political Science](https://polisci.wustl.edu/) at Washington University in St. Louis.
 
-I use survey experiments and computer vision to study comparative political economy and public opinion. I also study causal inference problems in survey experimentation and remote sensing. My research on individual corruption perceptions and public support for free trade is forthcoming in [*International Studies Quarterly*](https://academic.oup.com/isq).
+I use inferential statistics, survey experiments, and computer vision to study comparative political economy and public opinion. I also study causal inference problems in survey experimentation and remote sensing. My research on individual corruption perceptions and public support for free trade is forthcoming in [*International Studies Quarterly*](https://academic.oup.com/isq).
 
 Prior to joining Washington University, I was a Research Data Analyst at Johns Hopkins Medical Institutions (2023). I hold a B.S. degree *summa cum laude* in Mathematics (*Honors*) and Political Economy (*Honors*) from Georgetown University (2022).
 
