@@ -26,6 +26,7 @@
 
 
   @include breakpoint($x-large) {
+    width: 350px;
     padding-right: 0;
   }
 
@@ -61,7 +62,7 @@
   }
 
   @include breakpoint($x-large) {
-    width: 350px;
+    width: $right-sidebar-width;
   }
 }
 
