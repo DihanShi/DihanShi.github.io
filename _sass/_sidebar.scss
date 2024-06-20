@@ -22,12 +22,11 @@
     &:hover {
       opacity: 1;
     }
-    width: 350px;
   }
 
 
   @include breakpoint($x-large) {
-    width: 350px;
+    width: 500px;
     padding-right: 0;
   }
 
