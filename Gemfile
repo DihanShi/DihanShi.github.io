@@ -9,12 +9,6 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem 'tzinfo-data'
-
-gem 'webrick'
-
-gem 'faraday-retry'
-
 gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
@@ -30,4 +24,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem "webrick", "~> 1.8"
 end

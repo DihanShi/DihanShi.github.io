@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Welcome"
-excerpt: "Dihan Shi"
 author_profile: true
 redirect_from: 
   - /about/
