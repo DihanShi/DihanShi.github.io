@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Political Science"
   location         : # "Earth"
-  employer         : "Washington University in St. Louis"
+  employer         : # "Washington University in St. Louis"
   uri              : "https://polisci.wustl.edu/people/dihan-shi"
   email            : "dihan@wustl.edu" 
 
