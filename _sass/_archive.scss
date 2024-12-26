@@ -48,6 +48,11 @@
   }
 }
 
+.archive__item-title a:hover,
+.archive__item-title a:focus {
+  text-decoration: none;
+}
+
 /* remove border*/
 .page__content {
 
