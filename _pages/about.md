@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD student in the [Department of Political Science](https://polisci.wustl.edu/) at Washington University in St. Louis.
 
-I use spatial statistics, survey experiments, and computer vision to study comparative political economy and public opinion. I also study causal inference problems in survey experimentation. My research has been [published](publications) in *International Studies Quarterly*.
+I use spatial statistics, geospatial analysis, and survey experiments to study comparative political economy and public opinion. My research has been [published](publications) in *International Studies Quarterly*.
 
 Prior to joining Washington University, I was a Research Data Analyst at Johns Hopkins Medical Institutions (2023). I hold a B.S. degree *summa cum laude* in Mathematics (*Honors*) and Political Economy (*Honors*) from Georgetown University (2022).
 
