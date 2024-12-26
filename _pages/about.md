@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Department of Political Science](https://polisci.wustl.edu/) at Washington University in St. Louis.
+I am a PhD student in the [Department of Political Science](https://polisci.wustl.edu/) at Washington University in St. Louis. Additionally, I am an Editorial Assistant for Replication at [*Political Analysis*](https://www.cambridge.org/core/journals/political-analysis/).
 
 I use spatial statistics, geospatial analysis, and survey experiments to study comparative political economy and public opinion. My research has been [published](publications) in *International Studies Quarterly*.
 
