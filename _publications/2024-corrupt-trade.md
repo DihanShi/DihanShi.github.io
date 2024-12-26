@@ -7,7 +7,7 @@ date: 2024-06-24
 venue: 'International Studies Quarterly'
 paperurl: '/files/Corrupt-Trade/Shi & Rosas - Corrupt-Trade - AM.pdf'
 link: 'https://academic.oup.com/isq/article/68/3/sqae079/7697785'
-code: 'https://github.com/DihanShi/Corrupt-Trade'
+code: 'https://doi.org/10.7910/DVN/DUQTTG'
 citation: '<u>Shi, Dihan</u>, and Guillermo Rosas. 2024. &quot;‘If Foreign, Then Cleaner’: Individual Corruption Perceptions and Support for Free Trade in Developing Nations.&quot; <i>International Studies Quarterly</i> 68 (3): sqae079. https://doi.org/10.1093/isq/sqae079.'
 ---
 
