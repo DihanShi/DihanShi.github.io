@@ -55,6 +55,9 @@
     {% endif %}
     
       <p>
+      {% if post.citation %}
+        {{ post.citation }}<br>
+      {% endif %}
       {% if post.link %}
         <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
       {% endif %}
