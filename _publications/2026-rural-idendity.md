@@ -3,7 +3,7 @@ title: "The Power of Place: Rural Descriptive Representation and Policy Support 
 collection: publications
 permalink: /publication/2026-rural-identity
 excerpt: 'Using an original survey experiment, we find that rural Americans exhibit greater support for legislation and perceive it as more beneficial to rural communities when proposed by state representatives who share their rural identity.'
-date: 2024-01-11
+date: 2026-01-11
 venue: 'Journal of Experimental Political Science (Conditionally Accepted)'
 ---
 
