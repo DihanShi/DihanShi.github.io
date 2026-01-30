@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD student in the [Department of Political Science](https://polisci.wustl.edu/) at Washington University in St. Louis. Additionally, I am an Editorial Assistant for Replication at [*Political Analysis*](https://www.cambridge.org/core/journals/political-analysis/).
 
-I use spatial statistics, geospatial analysis, network analysis, and survey experiments to study modern and contemporary state building, conflict, and public opinion. My research has been [published](publications) in *International Studies Quarterly* and conditionally accepted at the *Journal of Experimental Political Science*.
+I study modern and contemporary state building, conflict, and public opinion. I focus on how human geography and geospatial patterns of governance shape political outcomes and attitudes. Methodologically, I use spatial statistics, geospatial analysis, network analysis, and survey experiments. My research has been [published](publications) in *International Studies Quarterly* and conditionally accepted at the *Journal of Experimental Political Science*.
 
 Prior to joining Washington University, I was a Research Data Analyst at Johns Hopkins Medical Institutions. I hold a M.A. degree (*en passant*) in Political Science from Washington University, and a B.S. degree *summa cum laude* in Mathematics (*Honors*) and Political Economy (*Honors*) from Georgetown University.
 
