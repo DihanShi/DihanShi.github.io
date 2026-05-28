@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">See a list of my working papers on<a href="{https://dihan.org/files/Dihan_Shi_CV.pdf}">my CV</a>.</div>
+  <div class="wordwrap">See a list of my working papers on <a href="https://dihan.org/files/Dihan_Shi_CV.pdf">my CV</a>.</div>
 {% endif %}
 
 {% include base_path %}
