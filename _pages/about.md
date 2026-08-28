@@ -13,6 +13,6 @@ I study modern and contemporary state building, sovereignty and security, and pu
 
 My research has been [published](publications) in *International Studies Quarterly* and the *Journal of Experimental Political Science*, and invited to R&R at *International Organization* and *Political Science Research and Methods*.
 
-I am a violinist. I was concertmaster of the [Georgetown University Orchestra](https://performingarts.georgetown.edu/participate/perform/music-ensembles/) (2021-2022) and a first violinist with the award-winning [University of North Carolina Symphony Orchestra](https://music.unc.edu/undergraduate/ensembles/uncso/) (2019-2020).
+I am a violinist with the [Washington University Symphony Orchestra](https://music.washu.edu/browse/symphony-orchestra/). I was concertmaster of the [Georgetown University Orchestra](https://performingarts.georgetown.edu/participate/perform/music-ensembles/) (2021-2022) and a first violinist with the award-winning [University of North Carolina Symphony Orchestra](https://music.unc.edu/undergraduate/ensembles/uncso/) (2019-2020).
 
 I am also a proud member of the [St. Louis Audubon Society](https://stlouisaudubon.org/).
