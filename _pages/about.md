@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Department of Political Science](https://polisci.wustl.edu/) at Washington University in St. Louis. Additionally, I am an Editorial Assistant for Replication at [*Political Analysis*](https://www.cambridge.org/core/journals/political-analysis/).
+I am a PhD student in the [Department of Political Science](https://polisci.wustl.edu/) at Washington University in St. Louis.
 
 I study modern and contemporary state building, sovereignty and security, and public opinion. Methodologically, I use spatial statistics, geospatial analysis, network analysis, and survey experiments.
 
