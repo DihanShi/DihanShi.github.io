@@ -11,7 +11,7 @@ I am a PhD student in the [Department of Political Science](https://polisci.wust
 
 I use novel geospatial data to study territory, security, and state building. Methodologically, I use spatial statistics, geospatial analysis, network analysis, and survey experiments.
 
-My research has been [published](publications) in *International Studies Quarterly* and the *Journal of Experimental Political Science*, and invited to R&R at *International Organization* and *Political Science Research and Methods*.
+My research has been [published](publications) in *International Studies Quarterly* and the *Journal of Experimental Political Science*, conditionally accepted at *International Organization*, and invited to R&R at *Political Science Research and Methods*.
 
 I am a violinist with the [Washington University Symphony Orchestra](https://music.washu.edu/browse/symphony-orchestra/). I was concertmaster of the [Georgetown University Orchestra](https://performingarts.georgetown.edu/participate/perform/music-ensembles/) (2021-2022) and a first violinist with the award-winning [University of North Carolina Symphony Orchestra](https://music.unc.edu/undergraduate/ensembles/uncso/) (2019-2020).
 
