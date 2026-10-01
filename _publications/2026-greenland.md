@@ -2,7 +2,7 @@
 title: "External Threat and Support for Secession: Evidence from Greenland amid U.S. Annexation Claims"
 collection: publications
 permalink: /publication/2026-greenland
-excerpt: 'I exploit a unique empirical opportunity in which a salient U.S. annexation threat escalated in a shock-like manner between two nationwide elections in Greenland held three weeks apart in 2025. I find that the external threat reduced support for secession, and the effects are largest in more capacity-constrained places.'
+excerpt: 'I exploit a unique empirical opportunity in which a salient U.S. annexation threat escalated in a shock-like manner between two nationwide elections in Greenland held three weeks apart in 2025. I find that the external threat reduced support for secession, and the effects were largest in more capacity-constrained places.'
 date: 2026-10-01
 venue: 'International Organization (Conditionally Accepted)'
 ---
