@@ -2,7 +2,7 @@
 title: "Mansion on the Hill: Satellite-Derived Building Heights, Inequality Perceptions, and Redistribution Preferences"
 collection: publications
 permalink: /publication/2026-built-up
-excerpt: 'I use satellite rasters to measure five-year change in the dispersion of building heights across thousands of small areas in England and Wales, and link these changes to individual responses in a national panel survey about whether inequality is rising and whether incomes should be equalized. In areas where skylines became more varied, people were more likely to say inequality had grown, and those living amid nearby districts with greater building height contrasts shifted toward stronger support for redistributive policy.'
+excerpt: 'I use satellite rasters to measure five-year change in the dispersion of building heights across thousands of small areas in England and Wales. In areas where skylines became more varied, people were more likely to say inequality had grown, and those living amid nearby districts with greater building height contrasts shifted toward stronger support for redistributive policy.'
 date: 2026-11-06
 venue: 'Political Science Research and Methods (conditionally accepted)'
 ---
