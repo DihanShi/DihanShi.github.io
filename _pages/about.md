@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD student in the [Department of Political Science](https://polisci.wustl.edu/) at Washington University in St. Louis.
 
-I use novel geospatial data to study territory, security, and state building. Methodologically, I use spatial statistics, geospatial analysis, network analysis, and survey experiments.
+I use novel geospatial data to study conflict, territory, sovereignty, and public opinion. Methodologically, I use spatial statistics, geospatial analysis, network analysis, and survey experiments.
 
 My research is [published](publications) or forthcoming in *International Organization*, *International Studies Quarterly*, and the *Journal of Experimental Political Science*, and conditionally accepted at *Political Science Research and Methods*.
 
